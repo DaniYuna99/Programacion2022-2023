@@ -58,6 +58,7 @@ public class Ejercicio1 {
 			
 		}else {
 			System.out.println("No has escrito bien si es par o no.");
+			
 		}
 		
 		
@@ -97,6 +98,7 @@ public class Ejercicio1 {
 			
 		}else {
 			System.out.println("No has escrito bien si es par o no.");
+			
 		}
 		
 		
@@ -138,6 +140,7 @@ public class Ejercicio1 {
 			
 		}else {
 			System.out.println("No has escrito bien si es par o no.");
+			
 		}
 		
 		
