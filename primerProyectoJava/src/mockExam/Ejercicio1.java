@@ -104,6 +104,8 @@ public class Ejercicio1 {
 					System.out.println("Te has equivocado. Introduce si tienes o no la tarjeta de nuevo: ");
 					tarjeta = String.valueOf(sc.nextLine()).toUpperCase();
 				}
+				
+				
 				// ----- Ifs que calculan la cantidad dependiendo del dia -----
 				if (dia.equals("X")) {
 					totalDinero = entradas * PRECIO_DIA_ESPECTADOR;

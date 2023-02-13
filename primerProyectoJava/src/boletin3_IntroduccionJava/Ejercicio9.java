@@ -14,14 +14,18 @@ public class Ejercicio9 {
 		 * más de un blanco, las frases se separan por puntos y los
 		 * párrafos por saltos de línea.*/
 		
-		System.out.println(contarPalabras("hola que tal"));
-		System.out.println(contarPalabras("    hola      que       tal        a"));
 		
-		System.out.println(contarLineas("hola. que tal."));
-		System.out.println(contarLineas("   hola.        q.   ue tal"));
+		System.out.println(contarPalabras("hola que tal"));								//3 palabras
+		System.out.println(contarPalabras("    hola      que       tal        a"));		//4 palabras
 		
-		System.out.println(contarParrafos("hola\n que tal\n"));
-		System.out.println(contarParrafos("      hola    \n     que tal        \n"));
+		System.out.println(contarLineas("hola. que tal."));								//2 lineas
+		System.out.println(contarLineas("   hola.        q.   ue tal"));				//2 lineas
+		
+		System.out.println(contarParrafos("hola\n que tal\n"));							//2 parrafos
+		System.out.println(contarParrafos("      hola    \n     que tal        \n"));	//2 parrafos
+		
+		
+		contarTexto("      hola    \n     que tal        \n. Me llamo     Daniel.");
 	}
 	
 	
@@ -31,9 +35,11 @@ public class Ejercicio9 {
 	/******************************************************************************/
 	
 	/* ================== Función contarPalabrasYLineas () ================== */
-	public static int contarTexto (String textoIntroducido) {
+	public static void contarTexto (String textoIntroducido) {
 		
-		return (-1);
+		System.out.println("El texto introducido contiene " + contarPalabras(textoIntroducido)
+							+ " palabras, " + contarLineas(textoIntroducido) + " líneas, y "
+							+ contarParrafos(textoIntroducido) + " párrafos.");
 	}
 	
 	
@@ -54,7 +60,8 @@ public class Ejercicio9 {
 					
 				}else if ((esBlanco == true) && (Character.isAlphabetic(textoIntroducido.charAt(i)))
 						|| (Character.isDigit(textoIntroducido.charAt(i)))
-						|| (esBlanco == false) && (i == (textoIntroducido.length() - 1))) {
+						|| ((esBlanco == false) && (i == (textoIntroducido.length() - 1))
+						&& (Character.isAlphabetic(textoIntroducido.charAt(i))))) {
 					palabrasTotales++;
 					esBlanco = false;
 				}
@@ -88,7 +95,7 @@ public class Ejercicio9 {
 	}
 	
 	
-	/*LE FALTA*/
+
 	/* ================== Función contarParrafos () ================== */
 	public static int contarParrafos (String textoIntroducido) {
 		
@@ -97,7 +104,7 @@ public class Ejercicio9 {
 		
 		for (int i = 0; i < textoIntroducido.length(); i++) {
 			
-			if ((textoIntroducido.charAt(i) == 92) && (textoIntroducido.charAt(i + 1) == 'n')) {
+			if (textoIntroducido.charAt(i) == '\n') {
 				parrafosTotales++;
 			}
 		}

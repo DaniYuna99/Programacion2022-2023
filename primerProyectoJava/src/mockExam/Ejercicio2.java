@@ -1,11 +1,17 @@
 package mockExam;
 
+import java.util.Scanner;
+
 public class Ejercicio2 {
 	
 	/******************************************************************************/
 	/*********************************** MAIN *************************************/
 	/******************************************************************************/
 
+	/* ===== CONSTANTES ===== */
+	public static final int NUMERO_PARA_FCM = 220;
+	
+	
 	public static void main(String[] args) {
 		
 		/*La frecuencia cardíaca máxima recomendada durante la 
@@ -27,7 +33,19 @@ public class Ejercicio2 {
 		 *pensamos que el usuario siempre lo introduce como debe.*/
 		
 		
-		System.out.println(fcm(2023, "10/05/2000"));
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Dime la fecha de nacimiento en formato 'dd/mm/yyyy': ");
+		String fecha = String.valueOf(sc.nextLine());
+		
+		System.out.println("Dime el año actual: ");
+		int anyoActual = Integer.valueOf(sc.nextLine());
+		
+		System.out.println("La frecuencia cardíaca máxima de esa persona es " + fcm(anyoActual, fecha)
+							+ ", y la frecuencia cardíaca recomendada es " + obtenerFCR(fcm(anyoActual, fecha))
+							+ ".");
+		
+		sc.close();
 	}
 	
 	
@@ -39,18 +57,24 @@ public class Ejercicio2 {
 	/* ======================= Función fcm () ======================= */
 	public static int fcm (int anyoActual, String fechaNacimiento) {
 		
-		StringBuilder sb = new StringBuilder();
+		int anyoFecha = Integer.valueOf(fechaNacimiento.substring(6));
+		int anyosPersona = anyoFecha - anyoActual;
 		
 		
-		for (int i = 6; i < fechaNacimiento.length(); i++) {
-			sb.append(fechaNacimiento.charAt(i));
+		if (anyosPersona < 0) {
+			anyosPersona = -anyosPersona;
 		}
 		
 		
-		int anyoFecha = Integer.valueOf(sb.toString());
+		return (NUMERO_PARA_FCM - anyosPersona);
+	}
+	
+	
+	
+	/* ======================= Función obtenerFCR () ======================= */
+	public static double obtenerFCR (int fcm) {
 		
-		
-		return (anyoActual - anyoFecha);
+		return (fcm * 0.85);
 	}
 	 
 	

@@ -41,8 +41,8 @@ public class Ejercicio10 {
 				entre mayúsculas y minúsculas.*/
 		
 		
-		System.out.println(cifrarCaracter('y', 3));
-		System.out.println(cifrarPalabra("casado", 3));
+		System.out.println(cifrarConCesar('y', 3));
+		System.out.println(cifrarConCesar("casado", 3));
 		
 		System.out.println(sonCifradosEquivalentes("CASADO", "fdvdgr"));
 		System.out.println(sonCifradosEquivalentes("fdvdgr", "CASADO"));
@@ -57,8 +57,8 @@ public class Ejercicio10 {
 	/******************************************************************************/
 	
 	//APARTADO A
-	/* ================== Función cifrarCaracter () ================== */
-	public static char cifrarCaracter (char caracterACifrar, int desplazamiento) {
+	/* ============= Función cifrarConCesar () [SOBRECARGADO] ============= */
+	public static char cifrarConCesar (char caracterACifrar, int desplazamiento) {
 		
 		int indiceCaracterFinal = ABECEDARIO.indexOf(Character.toLowerCase(caracterACifrar)) + desplazamiento;
 		
@@ -79,14 +79,17 @@ public class Ejercicio10 {
 	
 	
 	//APARTADO B
-	/* ================== Función cifrarCaracter () ================== */
-	public static String cifrarPalabra (String palabraACifrar, int desplazamiento) {
+	/* ============= Función cifrarConCesar () [SOBRECARGADO] ============= */
+	public static String cifrarConCesar (String palabraACifrar, int desplazamiento) {
 		
 		StringBuilder sb = new StringBuilder();
 		
 		
-		for (int i = 0; i < palabraACifrar.length(); i++) {
-			sb.append(cifrarCaracter(palabraACifrar.charAt(i), desplazamiento));
+		if (palabraACifrar != null && !palabraACifrar.isEmpty()) {
+			
+			for (int i = 0; i < palabraACifrar.length(); i++) {
+				sb.append(cifrarConCesar(palabraACifrar.charAt(i), desplazamiento));
+			}
 		}
 			
 		
@@ -97,39 +100,44 @@ public class Ejercicio10 {
 	
 	//APARTADO C
 	/* ================== Función cifrarCaracter () ================== */
-	public static boolean sonCifradosEquivalentes (String palabra1, String palabra2) {
+	public static String sonCifradosEquivalentes (String palabra1, String palabra2) {
 		
 		boolean sonEquivalentes = false;
 		int nivelCifrado = 0;
+		StringBuilder sb = new StringBuilder();
 		
 		
-		for (int i = 1; i < 27; i++) {
+		if (palabra1 != null && !palabra1.isEmpty() 
+				 && palabra2 != null && !palabra2.isEmpty()) {
 			
-			if (cifrarPalabra(palabra1.toLowerCase(), i).equals(palabra2.toLowerCase())) {
-				sonEquivalentes = true;
+			for (int i = 1; i < 27; i++) {
+				
+				if (cifrarConCesar(palabra1.toLowerCase(), i).equals(palabra2.toLowerCase())) {
+					sonEquivalentes = true;
+				}
+				
+				
+				if (sonEquivalentes == true) {
+					i = 26;
+				}
+				
+				
+				nivelCifrado++;
 			}
-			
-			
-			if (sonEquivalentes == true) {
-				i = 26;
-			}
-			
-			
-			nivelCifrado++;
 		}
 		
 		
 		if (sonEquivalentes == true) {
-			System.out.println("La palabra '" + palabra1 + "' es la palabra '" + palabra2 + "' cifrada "
-								+ "con un nivel " + nivelCifrado + " de cifrado." );
+			sb.append("La palabra '" + palabra1 + "' es la palabra '" + palabra2 + "' cifrada "
+						+ "con un nivel " + nivelCifrado + " de cifrado." );
 			
 		}else {
-			System.out.println("Las palabras '" + palabra1 + "' y '" + palabra2
-								+ "' no son equivalentes.");
+			sb.append("Las palabras '" + palabra1 + "' y '" + palabra2
+						+ "' no son equivalentes.");
 		}
 		
 		
-		return (sonEquivalentes);	
+		return (sb.toString());	
 	}
 }
 
