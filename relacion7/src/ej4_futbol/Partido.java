@@ -19,7 +19,9 @@ public class Partido {
 			String estadio, String ciudad) throws Exception {
 		
 		if ((jornada >= 1) && (jornada <= 38)
-				&& (!equipoLocal.equals(equipoVisitante))) {
+				&& (!equipoLocal.equals(equipoVisitante))
+				&& (equipoLocal != null) && (equipoVisitante != null)
+				&& (estadio != null) && (ciudad != null)) {
 			this.jornada = jornada;
 			this.equipoLocal = equipoLocal;
 			this.equipoVisitante = equipoVisitante;
@@ -39,26 +41,33 @@ public class Partido {
 	public boolean ponerResultado (String resultadoPartido) {
 		
 		boolean isAssigned = false;
-		char resultadoLocal = resultadoPartido.charAt(0);
-		char resultadoVisitante = resultadoPartido.charAt(2);
 		
 		
-		if (Character.isDigit(resultadoLocal) && Character.isDigit(resultadoVisitante)) {
+		if (resultadoPartido != null) {
 			
-			this.golesLocal = Character.getNumericValue(resultadoLocal);
-			this.golesVisitante = Character.getNumericValue(resultadoVisitante);
+			char resultadoLocal = resultadoPartido.charAt(0);
+			char resultadoVisitante = resultadoPartido.charAt(2);
 			
-			if (resultadoLocal > resultadoVisitante) {
-				resultadoQuiniela = '1';
+			
+			if (Character.isDigit(resultadoLocal) && Character.isDigit(resultadoVisitante)) {
 				
-			}else if (resultadoLocal == resultadoVisitante) {
-				resultadoQuiniela = 'X';
-			
-			}else {
-				resultadoQuiniela = '2';
+				this.golesLocal = Character.getNumericValue(resultadoLocal);
+				this.golesVisitante = Character.getNumericValue(resultadoVisitante);
+				
+				
+				if (resultadoLocal > resultadoVisitante) {
+					resultadoQuiniela = '1';
+					
+				}else if (resultadoLocal == resultadoVisitante) {
+					resultadoQuiniela = 'X';
+					
+				}else {
+					resultadoQuiniela = '2';
+				}
+				
+				
+				isAssigned = true;
 			}
-			
-			isAssigned = true;
 		}
 		
 		
@@ -74,20 +83,8 @@ public class Partido {
 
 
 
-	public void setJornada(int jornada) {
-		this.jornada = jornada;
-	}
-
-
-
 	public String getEquipoLocal() {
 		return equipoLocal;
-	}
-
-
-
-	public void setEquipoLocal(String equipoLocal) {
-		this.equipoLocal = equipoLocal;
 	}
 
 
@@ -97,17 +94,9 @@ public class Partido {
 	}
 
 
-
-	public void setEquipoVisitante(String equipoVisitante) {
-		this.equipoVisitante = equipoVisitante;
-	}
-
-
-
 	public int getGolesLocal() {
 		return golesLocal;
 	}
-
 
 
 	public void setGolesLocal(int golesLocal) {
@@ -115,11 +104,9 @@ public class Partido {
 	}
 
 
-
 	public int getGolesVisitante() {
 		return golesVisitante;
 	}
-
 
 
 	public void setGolesVisitante(int golesVisitante) {
@@ -127,11 +114,9 @@ public class Partido {
 	}
 
 
-
 	public char getResultadoQuiniela() {
 		return resultadoQuiniela;
 	}
-
 
 
 	public void setResultadoQuiniela(char resultadoQuiniela) {
@@ -140,31 +125,30 @@ public class Partido {
 	
 	
 		
-	/* ======================= TOSTRING() ====================== */
 	public String getEstadio() {
 		return estadio;
 	}
-
-
-
+	
+	
 	public void setEstadio(String estadio) {
 		this.estadio = estadio;
 	}
-
-
-
+	
+	
+	
 	public String getCiudad() {
 		return ciudad;
 	}
-
-
-
+	
+	
+	
 	public void setCiudad(String ciudad) {
 		this.ciudad = ciudad;
 	}
-
-
-
+	
+	
+	
+	/* ======================= TOSTRING() ====================== */
 	@Override
 	public String toString() {
 		
