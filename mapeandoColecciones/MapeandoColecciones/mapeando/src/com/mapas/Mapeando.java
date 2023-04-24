@@ -3,6 +3,7 @@ package com.mapas;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
@@ -23,53 +24,22 @@ public class Mapeando {
 	 * @param personas
 	 * @return Mapa con la colección de personas clasificadas por género
 	 */
-	public static Map<Genero, ArrayList<Persona>> mapearPersonasPorGenero (Collection<Persona> personas) {
+	public Map<Genero, Collection<Persona>> mapearPersonasPorGenero (Collection<Persona> personas) {
 		
-		Map<Genero, ArrayList<Persona>> mapa = new HashMap<>();
-		ArrayList<Persona> personasMasculino = new ArrayList<>();
-		ArrayList<Persona> personasFemenino = new ArrayList<>();
-		ArrayList<Persona> personasNeutro = new ArrayList<>();
-		ArrayList<Persona> personasDesconocido = new ArrayList<>();
-
+		Map<Genero, Collection<Persona>> mapa = new HashMap<>();
 		
-		for (Persona persona : personas) {
+		
+		for (Persona p : personas ) {
 			
-			if (persona.getGenero().equals(Genero.MASCULINO)) {
-				personasMasculino.add(persona);
+			if (!mapa.containsKey(p.getGenero())) {
+				mapa.put(p.getGenero(), new HashSet<>());
 				
-			}else if (persona.getGenero().equals(Genero.FEMENINO)) {
-				personasFemenino.add(persona);
-
-			}else if (persona.getGenero().equals(Genero.NEUTRO)) {
-				personasNeutro.add(persona);
-
-			}else if (persona.getGenero().equals(Genero.DESCONOCIDO)) {
-				personasDesconocido.add(persona);
-
+			}else {
+				mapa.get(p.getGenero()).add(p);
 			}
 		}
-		
-		
-		if (!personasMasculino.isEmpty()) {
-			mapa.put(Genero.MASCULINO, personasMasculino);
-		}
-		
-		
-		if (!personasFemenino.isEmpty()) {
-			mapa.put(Genero.FEMENINO, personasFemenino);
-		}
-		
-		
-		if (!personasNeutro.isEmpty()) {
-			mapa.put(Genero.NEUTRO, personasNeutro);
-		}
-		
-		
-		if (!personasDesconocido.isEmpty()) {
-			mapa.put(Genero.DESCONOCIDO, personasDesconocido);
-		}
 
-
+		
 		return (mapa);
 	}
 	
@@ -83,7 +53,7 @@ public class Mapeando {
 	 * @param numeros
 	 * @return Tabla de frecuencias de los números facilitados
 	 */
-	public static Map<Integer, Integer> contarNumeros(Collection<Integer> numeros){
+	public Map<Integer, Integer> contarNumeros(Collection<Integer> numeros){
 		
 		Map<Integer, Integer> mapa = new HashMap<>();
 		
@@ -92,7 +62,7 @@ public class Mapeando {
 		
 			if (!mapa.containsKey(numero)) {
 				mapa.put(numero, 1);
-					
+				
 			}else {
 				mapa.put(numero, mapa.get(numero) + 1);
 			}

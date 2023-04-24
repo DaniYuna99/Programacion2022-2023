@@ -1,6 +1,7 @@
 package com.mapas;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -32,7 +33,16 @@ public class MainApp {
 		//lista.add(new Persona("Joselito", "Díaz", Genero.DESCONOCIDO));
 
 				
-		Map<Genero, ArrayList<Persona>> mapa = new HashMap<>(Mapeando.mapearPersonasPorGenero(lista));
+		Map<Genero, Collection<Persona>> mapa = null;
+		Mapeando mapeando = new Mapeando();
+		
+		try {
+			mapa = new HashMap<>(mapeando.mapearPersonasPorGenero(lista));
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
 		System.out.println(mapa.toString());
 		
 		
@@ -42,8 +52,16 @@ public class MainApp {
 		List<Integer> listaNumeros = new ArrayList<>(Mapeando.generarNumerosAleatorios(10));
 		System.out.println(listaNumeros.toString());
 
-
-		Map<Integer, Integer> mapaNumeros = new HashMap<>(Mapeando.contarNumeros(listaNumeros));
+		
+		Map<Integer, Integer> mapaNumeros = null;
+		
+		try {
+			mapaNumeros = new HashMap<>(mapeando.contarNumeros(listaNumeros));
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
 		System.out.println(mapaNumeros.toString());
 
 	}
