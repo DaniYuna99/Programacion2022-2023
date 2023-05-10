@@ -1,0 +1,8018 @@
+================================================
+
+         CIUDADES Y SUS DIRECCIONES
+
+================================================
+
+ - ID ciudad: 1
+ - Nombre: A Corua La Corua
+ - ID del país al que pertenece: 87
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 2
+ - Nombre: Abha
+ - ID del país al que pertenece: 82
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 3
+ - Nombre: Abu Dhabi
+ - ID del país al que pertenece: 101
+ - Número de direcciones que tiene la ciudad: 2
+
+ - Lista de direcciones:
+
+   + ID dirección: 102
+   + Nombre: 669 Firozabad Loop
+   + Ciudad: Abu Dhabi
+
+   + ID dirección: 457
+   + Nombre: 535 Ahmadnagar Manor
+   + Ciudad: Abu Dhabi
+
+-----------------------
+
+========================
+
+ - ID ciudad: 4
+ - Nombre: Acua
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 5
+ - Nombre: Adana
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 2
+
+ - Lista de direcciones:
+
+   + ID dirección: 168
+   + Nombre: 842 Salzburg Lane
+   + Ciudad: Adana
+
+   + ID dirección: 332
+   + Nombre: 663 Baha Blanca Parkway
+   + Ciudad: Adana
+
+-----------------------
+
+========================
+
+ - ID ciudad: 6
+ - Nombre: Addis Abeba
+ - ID del país al que pertenece: 31
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 397
+   + Nombre: 614 Pak Kret Street
+   + Ciudad: Addis Abeba
+
+-----------------------
+
+========================
+
+ - ID ciudad: 7
+ - Nombre: Aden
+ - ID del país al que pertenece: 107
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 214
+   + Nombre: 751 Lima Loop
+   + Ciudad: Aden
+
+-----------------------
+
+========================
+
+ - ID ciudad: 8
+ - Nombre: Adoni
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 9
+ - Nombre: Ahmadnagar
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 10
+ - Nombre: Akishima
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 11
+ - Nombre: Akron
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 12
+ - Nombre: al-Ayn
+ - ID del país al que pertenece: 101
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 13
+ - Nombre: al-Hawiya
+ - ID del país al que pertenece: 82
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 14
+ - Nombre: al-Manama
+ - ID del país al que pertenece: 11
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 15
+ - Nombre: al-Qadarif
+ - ID del país al que pertenece: 89
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 400
+   + Nombre: 1152 Citrus Heights Manor
+   + Ciudad: al-Qadarif
+
+-----------------------
+
+========================
+
+ - ID ciudad: 16
+ - Nombre: al-Qatif
+ - ID del país al que pertenece: 82
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 17
+ - Nombre: Alessandria
+ - ID del país al que pertenece: 49
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 18
+ - Nombre: Allappuzha Alleppey
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 19
+ - Nombre: Allende
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 20
+ - Nombre: Almirante Brown
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 21
+ - Nombre: Alvorada
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 22
+ - Nombre: Ambattur
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 23
+ - Nombre: Amersfoort
+ - ID del país al que pertenece: 67
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 24
+ - Nombre: Amroha
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 25
+ - Nombre: Angra dos Reis
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 26
+ - Nombre: Anpolis
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 27
+ - Nombre: Antofagasta
+ - ID del país al que pertenece: 22
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 49
+   + Nombre: 1718 Valencia Street
+   + Ciudad: Antofagasta
+
+-----------------------
+
+========================
+
+ - ID ciudad: 28
+ - Nombre: Aparecida de Goinia
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 29
+ - Nombre: Apeldoorn
+ - ID del país al que pertenece: 67
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 30
+ - Nombre: Araatuba
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 31
+ - Nombre: Arak
+ - ID del país al que pertenece: 46
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 32
+ - Nombre: Arecibo
+ - ID del país al que pertenece: 77
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 365
+   + Nombre: 1009 Zanzibar Lane
+   + Ciudad: Arecibo
+
+-----------------------
+
+========================
+
+ - ID ciudad: 33
+ - Nombre: Arlington
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 34
+ - Nombre: Ashdod
+ - ID del país al que pertenece: 48
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 35
+ - Nombre: Ashgabat
+ - ID del país al que pertenece: 98
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 36
+ - Nombre: Ashqelon
+ - ID del país al que pertenece: 48
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 37
+ - Nombre: Asuncin
+ - ID del país al que pertenece: 73
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 230
+   + Nombre: 201 Effon-Alaiye Way
+   + Ciudad: Asuncin
+
+-----------------------
+
+========================
+
+ - ID ciudad: 38
+ - Nombre: Athenai
+ - ID del país al que pertenece: 39
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 39
+ - Nombre: Atinsk
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 40
+ - Nombre: Atlixco
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 41
+ - Nombre: Augusta-Richmond County
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 42
+ - Nombre: Aurora
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 43
+ - Nombre: Avellaneda
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 44
+ - Nombre: Bag
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 45
+ - Nombre: Baha Blanca
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 46
+ - Nombre: Baicheng
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 47
+ - Nombre: Baiyin
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 48
+ - Nombre: Baku
+ - ID del país al que pertenece: 10
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 49
+ - Nombre: Balaiha
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 50
+ - Nombre: Balikesir
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 371
+   + Nombre: 1912 Emeishan Drive
+   + Ciudad: Balikesir
+
+-----------------------
+
+========================
+
+ - ID ciudad: 51
+ - Nombre: Balurghat
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 52
+ - Nombre: Bamenda
+ - ID del país al que pertenece: 19
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 53
+ - Nombre: Bandar Seri Begawan
+ - ID del país al que pertenece: 16
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 54
+ - Nombre: Banjul
+ - ID del país al que pertenece: 37
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 55
+ - Nombre: Barcelona
+ - ID del país al que pertenece: 104
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 56
+ - Nombre: Basel
+ - ID del país al que pertenece: 91
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 57
+ - Nombre: Bat Yam
+ - ID del país al que pertenece: 48
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 58
+ - Nombre: Batman
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 176
+   + Nombre: 29 Pyongyang Loop
+   + Ciudad: Batman
+
+-----------------------
+
+========================
+
+ - ID ciudad: 59
+ - Nombre: Batna
+ - ID del país al que pertenece: 2
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 446
+   + Nombre: 1924 Shimonoseki Drive
+   + Ciudad: Batna
+
+-----------------------
+
+========================
+
+ - ID ciudad: 60
+ - Nombre: Battambang
+ - ID del país al que pertenece: 18
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 61
+ - Nombre: Baybay
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 62
+ - Nombre: Bayugan
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 63
+ - Nombre: Bchar
+ - ID del país al que pertenece: 2
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 73
+   + Nombre: 1031 Daugavpils Parkway
+   + Ciudad: Bchar
+
+-----------------------
+
+========================
+
+ - ID ciudad: 64
+ - Nombre: Beira
+ - ID del país al que pertenece: 63
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 65
+ - Nombre: Bellevue
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 66
+ - Nombre: Belm
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 67
+ - Nombre: Benguela
+ - ID del país al que pertenece: 4
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 68
+ - Nombre: Beni-Mellal
+ - ID del país al que pertenece: 62
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 69
+ - Nombre: Benin City
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 70
+ - Nombre: Bergamo
+ - ID del país al que pertenece: 49
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 71
+ - Nombre: Berhampore Baharampur
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 72
+ - Nombre: Bern
+ - ID del país al que pertenece: 91
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 159
+   + Nombre: 185 Novi Sad Place
+   + Ciudad: Bern
+
+-----------------------
+
+========================
+
+ - ID ciudad: 73
+ - Nombre: Bhavnagar
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 74
+ - Nombre: Bhilwara
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 75
+ - Nombre: Bhimavaram
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 76
+ - Nombre: Bhopal
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 77
+ - Nombre: Bhusawal
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 78
+ - Nombre: Bijapur
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 79
+ - Nombre: Bilbays
+ - ID del país al que pertenece: 29
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 80
+ - Nombre: Binzhou
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 81
+ - Nombre: Birgunj
+ - ID del país al que pertenece: 66
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 82
+ - Nombre: Bislig
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 83
+ - Nombre: Blumenau
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 84
+ - Nombre: Boa Vista
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 85
+ - Nombre: Boksburg
+ - ID del país al que pertenece: 85
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 86
+ - Nombre: Botosani
+ - ID del país al que pertenece: 78
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 234
+   + Nombre: 1256 Bislig Boulevard
+   + Ciudad: Botosani
+
+-----------------------
+
+========================
+
+ - ID ciudad: 87
+ - Nombre: Botshabelo
+ - ID del país al que pertenece: 85
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 88
+ - Nombre: Bradford
+ - ID del país al que pertenece: 102
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 89
+ - Nombre: Braslia
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 90
+ - Nombre: Bratislava
+ - ID del país al que pertenece: 84
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 362
+   + Nombre: 482 Kowloon and New Kowloon Manor
+   + Ciudad: Bratislava
+
+-----------------------
+
+========================
+
+ - ID ciudad: 91
+ - Nombre: Brescia
+ - ID del país al que pertenece: 49
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 92
+ - Nombre: Brest
+ - ID del país al que pertenece: 34
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 93
+ - Nombre: Brindisi
+ - ID del país al que pertenece: 49
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 94
+ - Nombre: Brockton
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 95
+ - Nombre: Bucuresti
+ - ID del país al que pertenece: 78
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 96
+ - Nombre: Buenaventura
+ - ID del país al que pertenece: 24
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 97
+ - Nombre: Bydgoszcz
+ - ID del país al que pertenece: 76
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 98
+ - Nombre: Cabuyao
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 99
+ - Nombre: Callao
+ - ID del país al que pertenece: 74
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 309
+   + Nombre: 827 Yuncheng Drive
+   + Ciudad: Callao
+
+-----------------------
+
+========================
+
+ - ID ciudad: 100
+ - Nombre: Cam Ranh
+ - ID del país al que pertenece: 105
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 101
+ - Nombre: Cape Coral
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 102
+ - Nombre: Caracas
+ - ID del país al que pertenece: 104
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 103
+ - Nombre: Carmen
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 104
+ - Nombre: Cavite
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 105
+ - Nombre: Cayenne
+ - ID del país al que pertenece: 35
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 69
+   + Nombre: 698 Otsu Street
+   + Ciudad: Cayenne
+
+-----------------------
+
+========================
+
+ - ID ciudad: 106
+ - Nombre: Celaya
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 107
+ - Nombre: Chandrapur
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 108
+ - Nombre: Changhwa
+ - ID del país al que pertenece: 92
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 79
+   + Nombre: 1551 Rampur Lane
+   + Ciudad: Changhwa
+
+-----------------------
+
+========================
+
+ - ID ciudad: 109
+ - Nombre: Changzhou
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 110
+ - Nombre: Chapra
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 111
+ - Nombre: Charlotte Amalie
+ - ID del país al que pertenece: 106
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 112
+ - Nombre: Chatsworth
+ - ID del país al que pertenece: 85
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 113
+ - Nombre: Cheju
+ - ID del país al que pertenece: 86
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 92
+   + Nombre: 1942 Ciparay Parkway
+   + Ciudad: Cheju
+
+-----------------------
+
+========================
+
+ - ID ciudad: 114
+ - Nombre: Chiayi
+ - ID del país al que pertenece: 92
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 77
+   + Nombre: 1947 Poos de Caldas Boulevard
+   + Ciudad: Chiayi
+
+-----------------------
+
+========================
+
+ - ID ciudad: 115
+ - Nombre: Chisinau
+ - ID del país al que pertenece: 61
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 42
+   + Nombre: 269 Cam Ranh Parkway
+   + Ciudad: Chisinau
+
+-----------------------
+
+========================
+
+ - ID ciudad: 116
+ - Nombre: Chungho
+ - ID del país al que pertenece: 92
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 117
+ - Nombre: Cianjur
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 118
+ - Nombre: Ciomas
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 119
+ - Nombre: Ciparay
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 120
+ - Nombre: Citrus Heights
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 121
+ - Nombre: Citt del Vaticano
+ - ID del país al que pertenece: 41
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 122
+ - Nombre: Ciudad del Este
+ - ID del país al que pertenece: 73
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 123
+ - Nombre: Clarksville
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 124
+ - Nombre: Coacalco de Berriozbal
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 125
+ - Nombre: Coatzacoalcos
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 126
+ - Nombre: Compton
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 127
+ - Nombre: Coquimbo
+ - ID del país al que pertenece: 22
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 128
+ - Nombre: Crdoba
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 28
+   + Nombre: 96 Tafuna Way
+   + Ciudad: Crdoba
+
+-----------------------
+
+========================
+
+ - ID ciudad: 129
+ - Nombre: Cuauhtmoc
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 130
+ - Nombre: Cuautla
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 131
+ - Nombre: Cuernavaca
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 132
+ - Nombre: Cuman
+ - ID del país al que pertenece: 104
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 133
+ - Nombre: Czestochowa
+ - ID del país al que pertenece: 76
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 134
+ - Nombre: Dadu
+ - ID del país al que pertenece: 72
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 135
+ - Nombre: Dallas
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 136
+ - Nombre: Datong
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 137
+ - Nombre: Daugavpils
+ - ID del país al que pertenece: 54
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 352
+   + Nombre: 1673 Tangail Drive
+   + Ciudad: Daugavpils
+
+-----------------------
+
+========================
+
+ - ID ciudad: 138
+ - Nombre: Davao
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 139
+ - Nombre: Daxian
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 140
+ - Nombre: Dayton
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 141
+ - Nombre: Deba Habe
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 142
+ - Nombre: Denizli
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 143
+ - Nombre: Dhaka
+ - ID del país al que pertenece: 12
+ - Número de direcciones que tiene la ciudad: 3
+
+ - Lista de direcciones:
+
+   + ID dirección: 25
+   + Nombre: 262 A Corua La Corua Parkway
+   + Ciudad: Dhaka
+
+   + ID dirección: 334
+   + Nombre: 1816 Bydgoszcz Loop
+   + Ciudad: Dhaka
+
+   + ID dirección: 337
+   + Nombre: 1838 Tabriz Lane
+   + Ciudad: Dhaka
+
+-----------------------
+
+========================
+
+ - ID ciudad: 144
+ - Nombre: Dhule Dhulia
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 145
+ - Nombre: Dongying
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 146
+ - Nombre: Donostia-San Sebastin
+ - ID del país al que pertenece: 87
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 147
+ - Nombre: Dos Quebradas
+ - ID del país al que pertenece: 24
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 148
+ - Nombre: Duisburg
+ - ID del país al que pertenece: 38
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 149
+ - Nombre: Dundee
+ - ID del país al que pertenece: 102
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 150
+ - Nombre: Dzerzinsk
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 151
+ - Nombre: Ede
+ - ID del país al que pertenece: 67
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 152
+ - Nombre: Effon-Alaiye
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 153
+ - Nombre: El Alto
+ - ID del país al que pertenece: 14
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 154
+ - Nombre: El Fuerte
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 155
+ - Nombre: El Monte
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 156
+ - Nombre: Elista
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 157
+ - Nombre: Emeishan
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 158
+ - Nombre: Emmen
+ - ID del país al que pertenece: 67
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 159
+ - Nombre: Enshi
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 160
+ - Nombre: Erlangen
+ - ID del país al que pertenece: 38
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 161
+ - Nombre: Escobar
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 162
+ - Nombre: Esfahan
+ - ID del país al que pertenece: 46
+ - Número de direcciones que tiene la ciudad: 3
+
+ - Lista de direcciones:
+
+   + ID dirección: 14
+   + Nombre: 1531 Sal Drive
+   + Ciudad: Esfahan
+
+   + ID dirección: 373
+   + Nombre: 1922 Miraj Way
+   + Ciudad: Esfahan
+
+   + ID dirección: 464
+   + Nombre: 76 Kermanshah Manor
+   + Ciudad: Esfahan
+
+-----------------------
+
+========================
+
+ - ID ciudad: 163
+ - Nombre: Eskisehir
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 164
+ - Nombre: Etawah
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 165
+ - Nombre: Ezeiza
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 166
+ - Nombre: Ezhou
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 167
+ - Nombre: Faaa
+ - ID del país al que pertenece: 36
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 168
+ - Nombre: Fengshan
+ - ID del país al que pertenece: 92
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 169
+ - Nombre: Firozabad
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 170
+ - Nombre: Florencia
+ - ID del país al que pertenece: 24
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 171
+ - Nombre: Fontana
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 172
+ - Nombre: Fukuyama
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 173
+ - Nombre: Funafuti
+ - ID del país al que pertenece: 99
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 109
+   + Nombre: 454 Nakhon Sawan Boulevard
+   + Ciudad: Funafuti
+
+-----------------------
+
+========================
+
+ - ID ciudad: 174
+ - Nombre: Fuyu
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 175
+ - Nombre: Fuzhou
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 176
+ - Nombre: Gandhinagar
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 177
+ - Nombre: Garden Grove
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 178
+ - Nombre: Garland
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 179
+ - Nombre: Gatineau
+ - ID del país al que pertenece: 20
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 180
+ - Nombre: Gaziantep
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 181
+ - Nombre: Gijn
+ - ID del país al que pertenece: 87
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 182
+ - Nombre: Gingoog
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 183
+ - Nombre: Goinia
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 184
+ - Nombre: Gorontalo
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 185
+ - Nombre: Grand Prairie
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 186
+ - Nombre: Graz
+ - ID del país al que pertenece: 9
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 187
+ - Nombre: Greensboro
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 188
+ - Nombre: Guadalajara
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 189
+ - Nombre: Guaruj
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 190
+ - Nombre: guas Lindas de Gois
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 191
+ - Nombre: Gulbarga
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 192
+ - Nombre: Hagonoy
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 193
+ - Nombre: Haining
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 194
+ - Nombre: Haiphong
+ - ID del país al que pertenece: 105
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 203
+   + Nombre: 1149 A Corua La Corua Boulevard
+   + Ciudad: Haiphong
+
+-----------------------
+
+========================
+
+ - ID ciudad: 195
+ - Nombre: Haldia
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 196
+ - Nombre: Halifax
+ - ID del país al que pertenece: 20
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 197
+ - Nombre: Halisahar
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 198
+ - Nombre: Halle/Saale
+ - ID del país al que pertenece: 38
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 199
+ - Nombre: Hami
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 200
+ - Nombre: Hamilton
+ - ID del país al que pertenece: 68
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 12
+   + Nombre: 478 Joliet Way
+   + Ciudad: Hamilton
+
+-----------------------
+
+========================
+
+ - ID ciudad: 201
+ - Nombre: Hanoi
+ - ID del país al que pertenece: 105
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 345
+   + Nombre: 68 Ponce Parkway
+   + Ciudad: Hanoi
+
+-----------------------
+
+========================
+
+ - ID ciudad: 202
+ - Nombre: Hidalgo
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 358
+   + Nombre: 1698 Southport Loop
+   + Ciudad: Hidalgo
+
+-----------------------
+
+========================
+
+ - ID ciudad: 203
+ - Nombre: Higashiosaka
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 204
+ - Nombre: Hino
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 205
+ - Nombre: Hiroshima
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 3
+
+ - Lista de direcciones:
+
+   + ID dirección: 145
+   + Nombre: 928 Jaffna Loop
+   + Ciudad: Hiroshima
+
+   + ID dirección: 304
+   + Nombre: 1635 Kuwana Boulevard
+   + Ciudad: Hiroshima
+
+   + ID dirección: 342
+   + Nombre: 124 al-Manama Way
+   + Ciudad: Hiroshima
+
+-----------------------
+
+========================
+
+ - ID ciudad: 206
+ - Nombre: Hodeida
+ - ID del país al que pertenece: 107
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 475
+   + Nombre: 434 Ourense Orense Manor
+   + Ciudad: Hodeida
+
+-----------------------
+
+========================
+
+ - ID ciudad: 207
+ - Nombre: Hohhot
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 208
+ - Nombre: Hoshiarpur
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 209
+ - Nombre: Hsichuh
+ - ID del país al que pertenece: 92
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 210
+ - Nombre: Huaian
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 211
+ - Nombre: Hubli-Dharwad
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 212
+ - Nombre: Huejutla de Reyes
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 213
+ - Nombre: Huixquilucan
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 214
+ - Nombre: Hunuco
+ - ID del país al que pertenece: 74
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 215
+ - Nombre: Ibirit
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 216
+ - Nombre: Idfu
+ - ID del país al que pertenece: 29
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 217
+ - Nombre: Ife
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 218
+ - Nombre: Ikerre
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 219
+ - Nombre: Iligan
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 220
+ - Nombre: Ilorin
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 221
+ - Nombre: Imus
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 222
+ - Nombre: Inegl
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 223
+ - Nombre: Ipoh
+ - ID del país al que pertenece: 59
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 224
+ - Nombre: Isesaki
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 225
+ - Nombre: Ivanovo
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 110
+   + Nombre: 1867 San Juan Bautista Tuxtepec Avenue
+   + Ciudad: Ivanovo
+
+-----------------------
+
+========================
+
+ - ID ciudad: 226
+ - Nombre: Iwaki
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 227
+ - Nombre: Iwakuni
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 228
+ - Nombre: Iwatsuki
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 229
+ - Nombre: Izumisano
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 230
+ - Nombre: Jaffna
+ - ID del país al que pertenece: 88
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 231
+ - Nombre: Jaipur
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 232
+ - Nombre: Jakarta
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 233
+ - Nombre: Jalib al-Shuyukh
+ - ID del país al que pertenece: 53
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 234
+ - Nombre: Jamalpur
+ - ID del país al que pertenece: 12
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 235
+ - Nombre: Jaroslavl
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 226
+   + Nombre: 810 Palghat Palakkad Boulevard
+   + Ciudad: Jaroslavl
+
+-----------------------
+
+========================
+
+ - ID ciudad: 236
+ - Nombre: Jastrzebie-Zdrj
+ - ID del país al que pertenece: 76
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 237
+ - Nombre: Jedda
+ - ID del país al que pertenece: 82
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 238
+ - Nombre: Jelets
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 239
+ - Nombre: Jhansi
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 240
+ - Nombre: Jinchang
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 241
+ - Nombre: Jining
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 242
+ - Nombre: Jinzhou
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 243
+ - Nombre: Jodhpur
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 244
+ - Nombre: Johannesburg
+ - ID del país al que pertenece: 85
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 245
+ - Nombre: Joliet
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 246
+ - Nombre: Jos Azueta
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 247
+ - Nombre: Juazeiro do Norte
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 248
+ - Nombre: Juiz de Fora
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 249
+ - Nombre: Junan
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 250
+ - Nombre: Jurez
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 251
+ - Nombre: Kabul
+ - ID del país al que pertenece: 1
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 252
+ - Nombre: Kaduna
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 2
+
+ - Lista de direcciones:
+
+   + ID dirección: 22
+   + Nombre: 320 Brest Avenue
+   + Ciudad: Kaduna
+
+   + ID dirección: 236
+   + Nombre: 885 Yingkou Manor
+   + Ciudad: Kaduna
+
+-----------------------
+
+========================
+
+ - ID ciudad: 253
+ - Nombre: Kakamigahara
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 254
+ - Nombre: Kaliningrad
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 306
+   + Nombre: 1883 Maikop Lane
+   + Ciudad: Kaliningrad
+
+-----------------------
+
+========================
+
+ - ID ciudad: 255
+ - Nombre: Kalisz
+ - ID del país al que pertenece: 76
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 256
+ - Nombre: Kamakura
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 257
+ - Nombre: Kamarhati
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 258
+ - Nombre: Kamjanets-Podilskyi
+ - ID del país al que pertenece: 100
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 259
+ - Nombre: Kamyin
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 260
+ - Nombre: Kanazawa
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 261
+ - Nombre: Kanchrapara
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 262
+ - Nombre: Kansas City
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 263
+ - Nombre: Karnal
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 264
+ - Nombre: Katihar
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 265
+ - Nombre: Kermanshah
+ - ID del país al que pertenece: 46
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 382
+   + Nombre: 220 Hidalgo Drive
+   + Ciudad: Kermanshah
+
+-----------------------
+
+========================
+
+ - ID ciudad: 266
+ - Nombre: Kilis
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 147
+   + Nombre: 374 Bat Yam Boulevard
+   + Ciudad: Kilis
+
+-----------------------
+
+========================
+
+ - ID ciudad: 267
+ - Nombre: Kimberley
+ - ID del país al que pertenece: 85
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 268
+ - Nombre: Kimchon
+ - ID del país al que pertenece: 86
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 269
+ - Nombre: Kingstown
+ - ID del país al que pertenece: 81
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 270
+ - Nombre: Kirovo-Tepetsk
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 271
+ - Nombre: Kisumu
+ - ID del país al que pertenece: 52
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 272
+ - Nombre: Kitwe
+ - ID del país al que pertenece: 109
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 273
+ - Nombre: Klerksdorp
+ - ID del país al que pertenece: 85
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 274
+ - Nombre: Kolpino
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 275
+ - Nombre: Konotop
+ - ID del país al que pertenece: 100
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 276
+ - Nombre: Koriyama
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 277
+ - Nombre: Korla
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 278
+ - Nombre: Korolev
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 279
+ - Nombre: Kowloon and New Kowloon
+ - ID del país al que pertenece: 42
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 280
+ - Nombre: Kragujevac
+ - ID del país al que pertenece: 108
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 281
+ - Nombre: Ktahya
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 128
+   + Nombre: 848 Tafuna Manor
+   + Ciudad: Ktahya
+
+-----------------------
+
+========================
+
+ - ID ciudad: 282
+ - Nombre: Kuching
+ - ID del país al que pertenece: 59
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 283
+ - Nombre: Kumbakonam
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 284
+ - Nombre: Kurashiki
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 285
+ - Nombre: Kurgan
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 381
+   + Nombre: 1618 Olomouc Manor
+   + Ciudad: Kurgan
+
+-----------------------
+
+========================
+
+ - ID ciudad: 286
+ - Nombre: Kursk
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 316
+   + Nombre: 746 Joliet Lane
+   + Ciudad: Kursk
+
+-----------------------
+
+========================
+
+ - ID ciudad: 287
+ - Nombre: Kuwana
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 288
+ - Nombre: La Paz
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 460
+   + Nombre: 659 Gatineau Boulevard
+   + Ciudad: La Paz
+
+-----------------------
+
+========================
+
+ - ID ciudad: 289
+ - Nombre: La Plata
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 290
+ - Nombre: La Romana
+ - ID del país al que pertenece: 27
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 442
+   + Nombre: 1245 Ibirit Way
+   + Ciudad: La Romana
+
+-----------------------
+
+========================
+
+ - ID ciudad: 291
+ - Nombre: Laiwu
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 292
+ - Nombre: Lancaster
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 293
+ - Nombre: Laohekou
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 294
+ - Nombre: Lapu-Lapu
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 295
+ - Nombre: Laredo
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 296
+ - Nombre: Lausanne
+ - ID del país al que pertenece: 91
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 297
+ - Nombre: Le Mans
+ - ID del país al que pertenece: 34
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 298
+ - Nombre: Lengshuijiang
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 299
+ - Nombre: Leshan
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 300
+ - Nombre: Lethbridge
+ - ID del país al que pertenece: 20
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 301
+ - Nombre: Lhokseumawe
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 302
+ - Nombre: Liaocheng
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 303
+ - Nombre: Liepaja
+ - ID del país al que pertenece: 54
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 27
+   + Nombre: 1780 Hino Boulevard
+   + Ciudad: Liepaja
+
+-----------------------
+
+========================
+
+ - ID ciudad: 304
+ - Nombre: Lilongwe
+ - ID del país al que pertenece: 58
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 170
+   + Nombre: 710 San Felipe del Progreso Avenue
+   + Ciudad: Lilongwe
+
+-----------------------
+
+========================
+
+ - ID ciudad: 305
+ - Nombre: Lima
+ - ID del país al que pertenece: 74
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 126
+   + Nombre: 1175 Tanauan Way
+   + Ciudad: Lima
+
+-----------------------
+
+========================
+
+ - ID ciudad: 306
+ - Nombre: Lincoln
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 307
+ - Nombre: Linz
+ - ID del país al que pertenece: 9
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 308
+ - Nombre: Lipetsk
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 2
+
+ - Lista de direcciones:
+
+   + ID dirección: 48
+   + Nombre: 1998 Halifax Drive
+   + Ciudad: Lipetsk
+
+   + ID dirección: 104
+   + Nombre: 1913 Kamakura Place
+   + Ciudad: Lipetsk
+
+-----------------------
+
+========================
+
+ - ID ciudad: 309
+ - Nombre: Livorno
+ - ID del país al que pertenece: 49
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 310
+ - Nombre: Ljubertsy
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 311
+ - Nombre: Loja
+ - ID del país al que pertenece: 28
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 312
+ - Nombre: London
+ - ID del país al que pertenece: 102
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 313
+ - Nombre: London
+ - ID del país al que pertenece: 20
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 314
+ - Nombre: Lublin
+ - ID del país al que pertenece: 76
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 315
+ - Nombre: Lubumbashi
+ - ID del país al que pertenece: 25
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 316
+ - Nombre: Lungtan
+ - ID del país al que pertenece: 92
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 317
+ - Nombre: Luzinia
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 318
+ - Nombre: Madiun
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 319
+ - Nombre: Mahajanga
+ - ID del país al que pertenece: 57
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 85
+   + Nombre: 320 Baiyin Parkway
+   + Ciudad: Mahajanga
+
+-----------------------
+
+========================
+
+ - ID ciudad: 320
+ - Nombre: Maikop
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 321
+ - Nombre: Malm
+ - ID del país al que pertenece: 90
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 322
+ - Nombre: Manchester
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 323
+ - Nombre: Mandaluyong
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 324
+ - Nombre: Mandi Bahauddin
+ - ID del país al que pertenece: 72
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 325
+ - Nombre: Mannheim
+ - ID del país al que pertenece: 38
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 326
+ - Nombre: Maracabo
+ - ID del país al que pertenece: 104
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 327
+ - Nombre: Mardan
+ - ID del país al que pertenece: 72
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 328
+ - Nombre: Maring
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 329
+ - Nombre: Masqat
+ - ID del país al que pertenece: 71
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 13
+   + Nombre: 613 Korolev Drive
+   + Ciudad: Masqat
+
+-----------------------
+
+========================
+
+ - ID ciudad: 330
+ - Nombre: Matamoros
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 331
+ - Nombre: Matsue
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 332
+ - Nombre: Meixian
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 333
+ - Nombre: Memphis
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 334
+ - Nombre: Merlo
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 335
+ - Nombre: Mexicali
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 336
+ - Nombre: Miraj
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 337
+ - Nombre: Mit Ghamr
+ - ID del país al que pertenece: 29
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 338
+ - Nombre: Miyakonojo
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 339
+ - Nombre: Mogiljov
+ - ID del país al que pertenece: 13
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 340
+ - Nombre: Molodetno
+ - ID del país al que pertenece: 13
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 341
+ - Nombre: Monclova
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 342
+ - Nombre: Monywa
+ - ID del país al que pertenece: 64
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 343
+ - Nombre: Moscow
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 344
+ - Nombre: Mosul
+ - ID del país al que pertenece: 47
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 345
+ - Nombre: Mukateve
+ - ID del país al que pertenece: 100
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 346
+ - Nombre: Munger Monghyr
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 347
+ - Nombre: Mwanza
+ - ID del país al que pertenece: 93
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 348
+ - Nombre: Mwene-Ditu
+ - ID del país al que pertenece: 25
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 349
+ - Nombre: Myingyan
+ - ID del país al que pertenece: 64
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 350
+ - Nombre: Mysore
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 351
+ - Nombre: Naala-Porto
+ - ID del país al que pertenece: 63
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 352
+ - Nombre: Nabereznyje Telny
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 353
+ - Nombre: Nador
+ - ID del país al que pertenece: 62
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 354
+ - Nombre: Nagaon
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 355
+ - Nombre: Nagareyama
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 356
+ - Nombre: Najafabad
+ - ID del país al que pertenece: 46
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 357
+ - Nombre: Naju
+ - ID del país al que pertenece: 86
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 358
+ - Nombre: Nakhon Sawan
+ - ID del país al que pertenece: 94
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 395
+   + Nombre: 1337 Mit Ghamr Avenue
+   + Ciudad: Nakhon Sawan
+
+-----------------------
+
+========================
+
+ - ID ciudad: 359
+ - Nombre: Nam Dinh
+ - ID del país al que pertenece: 105
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 360
+ - Nombre: Namibe
+ - ID del país al que pertenece: 4
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 388
+   + Nombre: 368 Hunuco Boulevard
+   + Ciudad: Namibe
+
+-----------------------
+
+========================
+
+ - ID ciudad: 361
+ - Nombre: Nantou
+ - ID del país al que pertenece: 92
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 9
+   + Nombre: 53 Idfu Parkway
+   + Ciudad: Nantou
+
+-----------------------
+
+========================
+
+ - ID ciudad: 362
+ - Nombre: Nanyang
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 363
+ - Nombre: NDjamna
+ - ID del país al que pertenece: 21
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 364
+ - Nombre: Newcastle
+ - ID del país al que pertenece: 85
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 365
+ - Nombre: Nezahualcyotl
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 366
+ - Nombre: Nha Trang
+ - ID del país al que pertenece: 105
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 367
+ - Nombre: Niznekamsk
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 368
+ - Nombre: Novi Sad
+ - ID del país al que pertenece: 108
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 369
+ - Nombre: Novoterkassk
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 370
+ - Nombre: Nukualofa
+ - ID del país al que pertenece: 95
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 371
+ - Nombre: Nuuk
+ - ID del país al que pertenece: 40
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 372
+ - Nombre: Nyeri
+ - ID del país al que pertenece: 52
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 373
+ - Nombre: Ocumare del Tuy
+ - ID del país al que pertenece: 104
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 374
+ - Nombre: Ogbomosho
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 375
+ - Nombre: Okara
+ - ID del país al que pertenece: 72
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 376
+ - Nombre: Okayama
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 2
+
+ - Lista de direcciones:
+
+   + ID dirección: 38
+   + Nombre: 61 Tama Street
+   + Ciudad: Okayama
+
+   + ID dirección: 434
+   + Nombre: 1404 Taguig Drive
+   + Ciudad: Okayama
+
+-----------------------
+
+========================
+
+ - ID ciudad: 377
+ - Nombre: Okinawa
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 370
+   + Nombre: 1565 Tangail Manor
+   + Ciudad: Okinawa
+
+-----------------------
+
+========================
+
+ - ID ciudad: 378
+ - Nombre: Olomouc
+ - ID del país al que pertenece: 26
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 379
+ - Nombre: Omdurman
+ - ID del país al que pertenece: 89
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 380
+ - Nombre: Omiya
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 381
+ - Nombre: Ondo
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 382
+ - Nombre: Onomichi
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 383
+ - Nombre: Oshawa
+ - ID del país al que pertenece: 20
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 384
+ - Nombre: Osmaniye
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 17
+   + Nombre: 270 Amroha Parkway
+   + Ciudad: Osmaniye
+
+-----------------------
+
+========================
+
+ - ID ciudad: 385
+ - Nombre: ostka
+ - ID del país al que pertenece: 100
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 386
+ - Nombre: Otsu
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 387
+ - Nombre: Oulu
+ - ID del país al que pertenece: 33
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 388
+ - Nombre: Ourense Orense
+ - ID del país al que pertenece: 87
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 389
+ - Nombre: Owo
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 390
+ - Nombre: Oyo
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 391
+ - Nombre: Ozamis
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 392
+ - Nombre: Paarl
+ - ID del país al que pertenece: 85
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 393
+ - Nombre: Pachuca de Soto
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 394
+ - Nombre: Pak Kret
+ - ID del país al que pertenece: 94
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 395
+ - Nombre: Palghat Palakkad
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 396
+ - Nombre: Pangkal Pinang
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 397
+ - Nombre: Papeete
+ - ID del país al que pertenece: 36
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 398
+ - Nombre: Parbhani
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 399
+ - Nombre: Pathankot
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 400
+ - Nombre: Patiala
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 401
+ - Nombre: Patras
+ - ID del país al que pertenece: 39
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 402
+ - Nombre: Pavlodar
+ - ID del país al que pertenece: 51
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 80
+   + Nombre: 602 Paarl Street
+   + Ciudad: Pavlodar
+
+-----------------------
+
+========================
+
+ - ID ciudad: 403
+ - Nombre: Pemalang
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 404
+ - Nombre: Peoria
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 405
+ - Nombre: Pereira
+ - ID del país al que pertenece: 24
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 406
+ - Nombre: Phnom Penh
+ - ID del país al que pertenece: 18
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 232
+   + Nombre: 754 Valencia Place
+   + Ciudad: Phnom Penh
+
+-----------------------
+
+========================
+
+ - ID ciudad: 407
+ - Nombre: Pingxiang
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 408
+ - Nombre: Pjatigorsk
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 409
+ - Nombre: Plock
+ - ID del país al que pertenece: 76
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 410
+ - Nombre: Po
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 411
+ - Nombre: Ponce
+ - ID del país al que pertenece: 77
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 287
+   + Nombre: 1405 Chisinau Place
+   + Ciudad: Ponce
+
+-----------------------
+
+========================
+
+ - ID ciudad: 412
+ - Nombre: Pontianak
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 413
+ - Nombre: Poos de Caldas
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 414
+ - Nombre: Portoviejo
+ - ID del país al que pertenece: 28
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 415
+ - Nombre: Probolinggo
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 416
+ - Nombre: Pudukkottai
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 417
+ - Nombre: Pune
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 418
+ - Nombre: Purnea Purnia
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 419
+ - Nombre: Purwakarta
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 420
+ - Nombre: Pyongyang
+ - ID del país al que pertenece: 70
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 421
+ - Nombre: Qalyub
+ - ID del país al que pertenece: 29
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 422
+ - Nombre: Qinhuangdao
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 423
+ - Nombre: Qomsheh
+ - ID del país al que pertenece: 46
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 424
+ - Nombre: Quilmes
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 425
+ - Nombre: Rae Bareli
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 426
+ - Nombre: Rajkot
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 427
+ - Nombre: Rampur
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 428
+ - Nombre: Rancagua
+ - ID del país al que pertenece: 22
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 429
+ - Nombre: Ranchi
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 430
+ - Nombre: Richmond Hill
+ - ID del país al que pertenece: 20
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 431
+ - Nombre: Rio Claro
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 432
+ - Nombre: Rizhao
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 433
+ - Nombre: Roanoke
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 434
+ - Nombre: Robamba
+ - ID del país al que pertenece: 28
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 435
+ - Nombre: Rockford
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 436
+ - Nombre: Ruse
+ - ID del país al que pertenece: 17
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 437
+ - Nombre: Rustenburg
+ - ID del país al que pertenece: 85
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 438
+ - Nombre: s-Hertogenbosch
+ - ID del país al que pertenece: 67
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 439
+ - Nombre: Saarbrcken
+ - ID del país al que pertenece: 38
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 440
+ - Nombre: Sagamihara
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 441
+ - Nombre: Saint Louis
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 442
+ - Nombre: Saint-Denis
+ - ID del país al que pertenece: 79
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 152
+   + Nombre: 1952 Pune Lane
+   + Ciudad: Saint-Denis
+
+-----------------------
+
+========================
+
+ - ID ciudad: 443
+ - Nombre: Sal
+ - ID del país al que pertenece: 62
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 444
+ - Nombre: Salala
+ - ID del país al que pertenece: 71
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 445
+ - Nombre: Salamanca
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 446
+ - Nombre: Salinas
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 447
+ - Nombre: Salzburg
+ - ID del país al que pertenece: 9
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 271
+   + Nombre: 1587 Loja Manor
+   + Ciudad: Salzburg
+
+-----------------------
+
+========================
+
+ - ID ciudad: 448
+ - Nombre: Sambhal
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 449
+ - Nombre: San Bernardino
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 450
+ - Nombre: San Felipe de Puerto Plata
+ - ID del país al que pertenece: 27
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 451
+ - Nombre: San Felipe del Progreso
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 452
+ - Nombre: San Juan Bautista Tuxtepec
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 453
+ - Nombre: San Lorenzo
+ - ID del país al que pertenece: 73
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 454
+ - Nombre: San Miguel de Tucumn
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 455
+ - Nombre: Sanaa
+ - ID del país al que pertenece: 107
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 308
+   + Nombre: 687 Alessandria Parkway
+   + Ciudad: Sanaa
+
+-----------------------
+
+========================
+
+ - ID ciudad: 456
+ - Nombre: Santa Brbara dOeste
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 457
+ - Nombre: Santa F
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 336
+   + Nombre: 430 Kumbakonam Drive
+   + Ciudad: Santa F
+
+-----------------------
+
+========================
+
+ - ID ciudad: 458
+ - Nombre: Santa Rosa
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 459
+ - Nombre: Santiago de Compostela
+ - ID del país al que pertenece: 87
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 460
+ - Nombre: Santiago de los Caballeros
+ - ID del país al que pertenece: 27
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 461
+ - Nombre: Santo Andr
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 462
+ - Nombre: Sanya
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 463
+ - Nombre: Sasebo
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 464
+ - Nombre: Satna
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 465
+ - Nombre: Sawhaj
+ - ID del país al que pertenece: 29
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 428
+   + Nombre: 1727 Matamoros Place
+   + Ciudad: Sawhaj
+
+-----------------------
+
+========================
+
+ - ID ciudad: 466
+ - Nombre: Serpuhov
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 467
+ - Nombre: Shahr-e Kord
+ - ID del país al que pertenece: 46
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 468
+ - Nombre: Shanwei
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 469
+ - Nombre: Shaoguan
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 470
+ - Nombre: Sharja
+ - ID del país al que pertenece: 101
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 297
+   + Nombre: 1192 Tongliao Street
+   + Ciudad: Sharja
+
+-----------------------
+
+========================
+
+ - ID ciudad: 471
+ - Nombre: Shenzhen
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 472
+ - Nombre: Shikarpur
+ - ID del país al que pertenece: 72
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 473
+ - Nombre: Shimoga
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 474
+ - Nombre: Shimonoseki
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 475
+ - Nombre: Shivapuri
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 476
+ - Nombre: Shubra al-Khayma
+ - ID del país al que pertenece: 29
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 477
+ - Nombre: Siegen
+ - ID del país al que pertenece: 38
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 478
+ - Nombre: Siliguri Shiliguri
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 479
+ - Nombre: Simferopol
+ - ID del país al que pertenece: 100
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 480
+ - Nombre: Sincelejo
+ - ID del país al que pertenece: 24
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 481
+ - Nombre: Sirjan
+ - ID del país al que pertenece: 46
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 482
+ - Nombre: Sivas
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 483
+ - Nombre: Skikda
+ - ID del país al que pertenece: 2
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 180
+   + Nombre: 757 Rustenburg Avenue
+   + Ciudad: Skikda
+
+-----------------------
+
+========================
+
+ - ID ciudad: 484
+ - Nombre: Smolensk
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 131
+   + Nombre: 801 Hagonoy Drive
+   + Ciudad: Smolensk
+
+-----------------------
+
+========================
+
+ - ID ciudad: 485
+ - Nombre: So Bernardo do Campo
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 486
+ - Nombre: So Leopoldo
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 487
+ - Nombre: Sogamoso
+ - ID del país al que pertenece: 24
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 488
+ - Nombre: Sokoto
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 489
+ - Nombre: Songkhla
+ - ID del país al que pertenece: 94
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 90
+   + Nombre: 870 Ashqelon Loop
+   + Ciudad: Songkhla
+
+-----------------------
+
+========================
+
+ - ID ciudad: 490
+ - Nombre: Sorocaba
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 491
+ - Nombre: Soshanguve
+ - ID del país al que pertenece: 85
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 492
+ - Nombre: Sousse
+ - ID del país al que pertenece: 96
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 340
+   + Nombre: 507 Smolensk Loop
+   + Ciudad: Sousse
+
+-----------------------
+
+========================
+
+ - ID ciudad: 493
+ - Nombre: South Hill
+ - ID del país al que pertenece: 5
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 494
+ - Nombre: Southampton
+ - ID del país al que pertenece: 102
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 495
+ - Nombre: Southend-on-Sea
+ - ID del país al que pertenece: 102
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 496
+ - Nombre: Southport
+ - ID del país al que pertenece: 102
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 497
+ - Nombre: Springs
+ - ID del país al que pertenece: 85
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 498
+ - Nombre: Stara Zagora
+ - ID del país al que pertenece: 17
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 499
+ - Nombre: Sterling Heights
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 500
+ - Nombre: Stockport
+ - ID del país al que pertenece: 102
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 501
+ - Nombre: Sucre
+ - ID del país al que pertenece: 14
+ - Número de direcciones que tiene la ciudad: 2
+
+ - Lista de direcciones:
+
+   + ID dirección: 91
+   + Nombre: 1740 Portoviejo Avenue
+   + Ciudad: Sucre
+
+   + ID dirección: 117
+   + Nombre: 1079 Tel Aviv-Jaffa Boulevard
+   + Ciudad: Sucre
+
+-----------------------
+
+========================
+
+ - ID ciudad: 502
+ - Nombre: Suihua
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 503
+ - Nombre: Sullana
+ - ID del país al que pertenece: 74
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 504
+ - Nombre: Sultanbeyli
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 505
+ - Nombre: Sumqayit
+ - ID del país al que pertenece: 10
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 339
+   + Nombre: 503 Sogamoso Loop
+   + Ciudad: Sumqayit
+
+-----------------------
+
+========================
+
+ - ID ciudad: 506
+ - Nombre: Sumy
+ - ID del país al que pertenece: 100
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 191
+   + Nombre: 140 Chiayi Parkway
+   + Ciudad: Sumy
+
+-----------------------
+
+========================
+
+ - ID ciudad: 507
+ - Nombre: Sungai Petani
+ - ID del país al que pertenece: 59
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 508
+ - Nombre: Sunnyvale
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 509
+ - Nombre: Surakarta
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 510
+ - Nombre: Syktyvkar
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 511
+ - Nombre: Syrakusa
+ - ID del país al que pertenece: 49
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 512
+ - Nombre: Szkesfehrvr
+ - ID del país al que pertenece: 43
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 513
+ - Nombre: Tabora
+ - ID del país al que pertenece: 93
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 194
+   + Nombre: 605 Rio Claro Parkway
+   + Ciudad: Tabora
+
+-----------------------
+
+========================
+
+ - ID ciudad: 514
+ - Nombre: Tabriz
+ - ID del país al que pertenece: 46
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 515
+ - Nombre: Tabuk
+ - ID del país al que pertenece: 82
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 317
+   + Nombre: 780 Kimberley Way
+   + Ciudad: Tabuk
+
+-----------------------
+
+========================
+
+ - ID ciudad: 516
+ - Nombre: Tafuna
+ - ID del país al que pertenece: 3
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 517
+ - Nombre: Taguig
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 518
+ - Nombre: Taizz
+ - ID del país al que pertenece: 107
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 217
+   + Nombre: 1001 Miyakonojo Lane
+   + Ciudad: Taizz
+
+-----------------------
+
+========================
+
+ - ID ciudad: 519
+ - Nombre: Talavera
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 520
+ - Nombre: Tallahassee
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 521
+ - Nombre: Tama
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 522
+ - Nombre: Tambaram
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 523
+ - Nombre: Tanauan
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 524
+ - Nombre: Tandil
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 525
+ - Nombre: Tangail
+ - ID del país al que pertenece: 12
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 526
+ - Nombre: Tanshui
+ - ID del país al que pertenece: 92
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 527
+ - Nombre: Tanza
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 528
+ - Nombre: Tarlac
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 529
+ - Nombre: Tarsus
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 530
+ - Nombre: Tartu
+ - ID del país al que pertenece: 30
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 531
+ - Nombre: Teboksary
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 532
+ - Nombre: Tegal
+ - ID del país al que pertenece: 45
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 533
+ - Nombre: Tel Aviv-Jaffa
+ - ID del país al que pertenece: 48
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 534
+ - Nombre: Tete
+ - ID del país al que pertenece: 63
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 101
+   + Nombre: 1599 Plock Drive
+   + Ciudad: Tete
+
+-----------------------
+
+========================
+
+ - ID ciudad: 535
+ - Nombre: Tianjin
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 253
+   + Nombre: 1760 Oshawa Manor
+   + Ciudad: Tianjin
+
+-----------------------
+
+========================
+
+ - ID ciudad: 536
+ - Nombre: Tiefa
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 537
+ - Nombre: Tieli
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 538
+ - Nombre: Tokat
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 539
+ - Nombre: Tonghae
+ - ID del país al que pertenece: 86
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 540
+ - Nombre: Tongliao
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 541
+ - Nombre: Torren
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 542
+ - Nombre: Touliu
+ - ID del país al que pertenece: 92
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 543
+ - Nombre: Toulon
+ - ID del país al que pertenece: 34
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 544
+ - Nombre: Toulouse
+ - ID del país al que pertenece: 34
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 545
+ - Nombre: Trshavn
+ - ID del país al que pertenece: 32
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 546
+ - Nombre: Tsaotun
+ - ID del país al que pertenece: 92
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 547
+ - Nombre: Tsuyama
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 548
+ - Nombre: Tuguegarao
+ - ID del país al que pertenece: 75
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 549
+ - Nombre: Tychy
+ - ID del país al que pertenece: 76
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 550
+ - Nombre: Udaipur
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 551
+ - Nombre: Udine
+ - ID del país al que pertenece: 49
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 552
+ - Nombre: Ueda
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 553
+ - Nombre: Uijongbu
+ - ID del país al que pertenece: 86
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 554
+ - Nombre: Uluberia
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 555
+ - Nombre: Urawa
+ - ID del país al que pertenece: 50
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 556
+ - Nombre: Uruapan
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 557
+ - Nombre: Usak
+ - ID del país al que pertenece: 97
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 208
+   + Nombre: 1215 Pyongyang Parkway
+   + Ciudad: Usak
+
+-----------------------
+
+========================
+
+ - ID ciudad: 558
+ - Nombre: Usolje-Sibirskoje
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 559
+ - Nombre: Uttarpara-Kotrung
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 560
+ - Nombre: Vaduz
+ - ID del país al que pertenece: 55
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 61
+   + Nombre: 943 Tokat Street
+   + Ciudad: Vaduz
+
+-----------------------
+
+========================
+
+ - ID ciudad: 561
+ - Nombre: Valencia
+ - ID del país al que pertenece: 104
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 562
+ - Nombre: Valle de la Pascua
+ - ID del país al que pertenece: 104
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 563
+ - Nombre: Valle de Santiago
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 564
+ - Nombre: Valparai
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 565
+ - Nombre: Vancouver
+ - ID del país al que pertenece: 20
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 566
+ - Nombre: Varanasi Benares
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 567
+ - Nombre: Vicente Lpez
+ - ID del país al que pertenece: 6
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 568
+ - Nombre: Vijayawada
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 569
+ - Nombre: Vila Velha
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 570
+ - Nombre: Vilnius
+ - ID del país al que pertenece: 56
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 571
+ - Nombre: Vinh
+ - ID del país al que pertenece: 105
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 572
+ - Nombre: Vitria de Santo Anto
+ - ID del país al que pertenece: 15
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 573
+ - Nombre: Warren
+ - ID del país al que pertenece: 103
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 574
+ - Nombre: Weifang
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 575
+ - Nombre: Witten
+ - ID del país al que pertenece: 38
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 576
+ - Nombre: Woodridge
+ - ID del país al que pertenece: 8
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 577
+ - Nombre: Wroclaw
+ - ID del país al que pertenece: 76
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 578
+ - Nombre: Xiangfan
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 579
+ - Nombre: Xiangtan
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 580
+ - Nombre: Xintai
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 581
+ - Nombre: Xinxiang
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 2
+
+ - Lista de direcciones:
+
+   + ID dirección: 169
+   + Nombre: 154 Tallahassee Loop
+   + Ciudad: Xinxiang
+
+   + ID dirección: 288
+   + Nombre: 226 Halifax Street
+   + Ciudad: Xinxiang
+
+-----------------------
+
+========================
+
+ - ID ciudad: 582
+ - Nombre: Yamuna Nagar
+ - ID del país al que pertenece: 44
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 583
+ - Nombre: Yangor
+ - ID del país al que pertenece: 65
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 584
+ - Nombre: Yantai
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 585
+ - Nombre: Yaound
+ - ID del país al que pertenece: 19
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 586
+ - Nombre: Yerevan
+ - ID del país al que pertenece: 7
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 45
+   + Nombre: 42 Brindisi Place
+   + Ciudad: Yerevan
+
+-----------------------
+
+========================
+
+ - ID ciudad: 587
+ - Nombre: Yinchuan
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 588
+ - Nombre: Yingkou
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 589
+ - Nombre: York
+ - ID del país al que pertenece: 102
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 590
+ - Nombre: Yuncheng
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 591
+ - Nombre: Yuzhou
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 592
+ - Nombre: Zalantun
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 593
+ - Nombre: Zanzibar
+ - ID del país al que pertenece: 93
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 594
+ - Nombre: Zaoyang
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 595
+ - Nombre: Zapopan
+ - ID del país al que pertenece: 60
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 596
+ - Nombre: Zaria
+ - ID del país al que pertenece: 69
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 597
+ - Nombre: Zeleznogorsk
+ - ID del país al que pertenece: 80
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 598
+ - Nombre: Zhezqazghan
+ - ID del país al que pertenece: 51
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 599
+ - Nombre: Zhoushan
+ - ID del país al que pertenece: 23
+ - Número de direcciones que tiene la ciudad: 0
+
+ - Lista de direcciones:
+
+    No tiene direcciones.
+
+-----------------------
+
+========================
+
+ - ID ciudad: 600
+ - Nombre: Ziguinchor
+ - ID del país al que pertenece: 83
+ - Número de direcciones que tiene la ciudad: 1
+
+ - Lista de direcciones:
+
+   + ID dirección: 461
+   + Nombre: 1889 Valparai Way
+   + Ciudad: Ziguinchor
+
+-----------------------
+
